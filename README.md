@@ -1,1 +1,4 @@
-# Deepfake-Audio-Detection
+The rise of AI-generated speech, also known as deepfake audio, has presented new challenges in digital security, media authenticity, and information integrity. The ability of AI to synthesize highly realistic voice recordings has led to concerns about misinformation, fraud, and impersonation, making it crucial to develop reliable methods for detecting synthetic audio.
+
+Our project, CADENCE, proposes a web-based audio forensics platform that allows users to upload audio files and receive a detailed analysis determining whether the content is AI-generated or authentic. The system provides not only a confidence score, but also visual forensic reports highlighting key acoustic anomalies, making deepfake detection transparent, explainable, and user-friendly.
+CADENCE leverages advanced machine learning models trained on diverse datasets to ensure robust and accurate detection. By integrating real-time analysis and an intuitive interface, our platform empowers individuals and organizations to combat audio-based deception effectively.
